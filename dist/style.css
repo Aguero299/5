@@ -1,8 +1,21 @@
+ <video autoplay loop muted> <source src="https://rouaa2.github.io/test/111/dist/example.mp4"> </video>
+
+---------------------------------------------------------
+
+class="video-back"
+
+---------------------------------------------
+
 .video-back{ 
+
 position:fixed;
+
 top:0;   
+
 left:0;
+
 min-width:100%;
+
 min-height:100%;
-z-index:-2;  
-}
+
+z-index:-1;   
